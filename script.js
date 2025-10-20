@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         mensagemFinal.classList.remove('hidden');
 
         // Mensagem fofa ❤️
-        alert('🎉 Eu sabia rs! Te amo coisa linda! 🎉');
+        alert('🎉 Eu sabia rs! Coisa mais linda desse mundo! 🎉');
 
         // Rolagem suave até o final
         setTimeout(() => {
@@ -73,3 +73,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
